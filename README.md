@@ -16,13 +16,15 @@ El presente repositorio contiene todo lo inherente a la práctica asociada a la 
 ```
 ├── README.md                           <- The top-level README for developers using this project.
 │
-├── notebooks                           <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                                          the creator's initials, and a short `_` delimited description, e.g.
-│                                          `001_AT_data_exploration`.
+├── notebooks                           <- Jupyter notebooks. Naming convention is a number 
+│                                          (for ordering), the creator's initials, and a short `_` 
+│                                          delimited description, e.g. `001_AT_data_exploration`.
 │
-├── requirements.txt                    <- The requirements file for reproducing the analysis environment with pip (python venv).
+├── requirements.txt                    <- The requirements file for reproducing the analysis 
+│                                          environment with pip (python venv).
 │
-├── environment.yml                     <- The requirements file for reproducing the analysis environment with conda (conda venv).
+├── environment.yml                     <- The requirements file for reproducing the analysis 
+│                                          environment with conda (conda venv).
 │
 ├── data
 │   └── raw                             <- The original, immutable data dump.
