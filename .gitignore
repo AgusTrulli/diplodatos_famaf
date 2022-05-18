@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Project things
-data/raw/tech_salaries.csv
+data/raw/
