@@ -129,4 +129,8 @@ dmypy.json
 .pyre/
 
 # Project things
-data/raw/
+data/raw/*
+data/preprocessed/*
+
+!data/raw/.gitkeep
+!data/preprocessed/.gitkeep
